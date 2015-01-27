@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\MementoPattern\bin\Debug\MementoPattern.exe
+G:\_Projects\Private\DesignPatterns\MementoPattern\bin\Debug\MementoPattern.pdb
+G:\_Projects\Private\DesignPatterns\MementoPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\MementoPattern\obj\x86\Debug\MementoPattern.exe
+G:\_Projects\Private\DesignPatterns\MementoPattern\obj\x86\Debug\MementoPattern.pdb
+E:\Projects\2012\DesignPatterns\MementoPattern\bin\Debug\MementoPattern.exe
+E:\Projects\2012\DesignPatterns\MementoPattern\bin\Debug\MementoPattern.pdb
+E:\Projects\2012\DesignPatterns\MementoPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\MementoPattern\obj\x86\Debug\MementoPattern.exe
+E:\Projects\2012\DesignPatterns\MementoPattern\obj\x86\Debug\MementoPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\MementoPattern\bin\Debug\MementoPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\MementoPattern\bin\Debug\MementoPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\MementoPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\MementoPattern\obj\x86\Debug\MementoPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\MementoPattern\obj\x86\Debug\MementoPattern.pdb

@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+G:\_Projects\Private\DesignPatterns\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+G:\_Projects\Private\DesignPatterns\TemplateMethodPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.exe
+G:\_Projects\Private\DesignPatterns\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.pdb
+E:\Projects\2012\DesignPatterns\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+E:\Projects\2012\DesignPatterns\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+E:\Projects\2012\DesignPatterns\TemplateMethodPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.exe
+E:\Projects\2012\DesignPatterns\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\TemplateMethodPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.pdb

@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\StructuralExamples\StrategyPattern\bin\Debug\Strategy.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\StrategyPattern\bin\Debug\Strategy.pdb
+E:\Projects\2012\DesignPatterns\StructuralExamples\StrategyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\StructuralExamples\StrategyPattern\obj\x86\Debug\Strategy.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\StrategyPattern\obj\x86\Debug\Strategy.pdb

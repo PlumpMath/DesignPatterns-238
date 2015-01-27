@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\Composite\bin\Debug\Composite.exe
+E:\Projects\2012\DesignPatterns\Composite\bin\Debug\Composite.pdb
+E:\Projects\2012\DesignPatterns\Composite\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\Composite\obj\x86\Debug\Composite.exe
+E:\Projects\2012\DesignPatterns\Composite\obj\x86\Debug\Composite.pdb

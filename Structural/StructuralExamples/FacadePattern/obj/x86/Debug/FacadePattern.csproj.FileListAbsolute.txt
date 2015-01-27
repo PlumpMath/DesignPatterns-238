@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\StructuralExamples\FacadePattern\bin\Debug\Facade.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\FacadePattern\bin\Debug\Facade.pdb
+E:\Projects\2012\DesignPatterns\StructuralExamples\FacadePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\StructuralExamples\FacadePattern\obj\x86\Debug\Facade.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\FacadePattern\obj\x86\Debug\Facade.pdb

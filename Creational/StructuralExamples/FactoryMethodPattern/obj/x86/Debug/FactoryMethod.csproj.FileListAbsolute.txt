@@ -1,0 +1,10 @@
+E:\Projects\2012\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+E:\Projects\2012\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+E:\Projects\2012\DesignPatterns\FactoryMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
+E:\Projects\2012\DesignPatterns\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb
+E:\Projects\2012\DesignPatterns\StructuralExamples\FactoryMethodPattern\bin\Debug\FactoryMethod.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\FactoryMethodPattern\bin\Debug\FactoryMethod.pdb
+E:\Projects\2012\DesignPatterns\StructuralExamples\FactoryMethodPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\StructuralExamples\FactoryMethodPattern\obj\x86\Debug\FactoryMethod.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\FactoryMethodPattern\obj\x86\Debug\FactoryMethod.pdb

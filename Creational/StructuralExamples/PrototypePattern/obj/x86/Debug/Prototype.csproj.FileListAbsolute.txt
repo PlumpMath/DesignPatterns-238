@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+E:\Projects\2012\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+E:\Projects\2012\DesignPatterns\Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\Prototype\obj\x86\Debug\Prototype.exe
+E:\Projects\2012\DesignPatterns\Prototype\obj\x86\Debug\Prototype.pdb

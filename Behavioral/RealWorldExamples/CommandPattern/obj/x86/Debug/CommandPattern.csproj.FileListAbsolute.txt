@@ -1,0 +1,20 @@
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\CommandPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\CommandPattern\obj\x86\Debug\CommandPattern.exe
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\CommandPattern\obj\x86\Debug\CommandPattern.pdb
+G:\_Projects\Private\DesignPatterns\CommandPattern\obj\x86\Debug\CommandPattern.exe
+G:\_Projects\Private\DesignPatterns\CommandPattern\obj\x86\Debug\CommandPattern.pdb
+G:\_Projects\Private\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.exe
+G:\_Projects\Private\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.pdb
+G:\_Projects\Private\DesignPatterns\CommandPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.exe
+E:\Projects\2012\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.pdb
+E:\Projects\2012\DesignPatterns\CommandPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\CommandPattern\obj\x86\Debug\CommandPattern.exe
+E:\Projects\2012\DesignPatterns\CommandPattern\obj\x86\Debug\CommandPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\CommandPattern\bin\Debug\CommandPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\CommandPattern\bin\Debug\CommandPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\CommandPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\CommandPattern\obj\x86\Debug\CommandPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\CommandPattern\obj\x86\Debug\CommandPattern.pdb

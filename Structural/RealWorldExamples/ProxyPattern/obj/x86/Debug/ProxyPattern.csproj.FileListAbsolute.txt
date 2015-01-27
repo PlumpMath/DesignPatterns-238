@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.exe
+G:\_Projects\Private\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.pdb
+G:\_Projects\Private\DesignPatterns\ProxyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\ProxyPattern\obj\x86\Debug\ProxyPattern.exe
+G:\_Projects\Private\DesignPatterns\ProxyPattern\obj\x86\Debug\ProxyPattern.pdb
+E:\Projects\2012\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.exe
+E:\Projects\2012\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.pdb
+E:\Projects\2012\DesignPatterns\ProxyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\ProxyPattern\obj\x86\Debug\ProxyPattern.exe
+E:\Projects\2012\DesignPatterns\ProxyPattern\obj\x86\Debug\ProxyPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ProxyPattern\bin\Debug\ProxyPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ProxyPattern\bin\Debug\ProxyPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ProxyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ProxyPattern\obj\x86\Debug\ProxyPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ProxyPattern\obj\x86\Debug\ProxyPattern.pdb

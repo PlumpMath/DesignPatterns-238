@@ -1,0 +1,20 @@
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.pdb
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\ChainOfResponsibilityPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.exe
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.pdb
+G:\_Projects\Private\DesignPatterns\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe
+G:\_Projects\Private\DesignPatterns\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.pdb
+G:\_Projects\Private\DesignPatterns\ChainOfResponsibilityPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.exe
+G:\_Projects\Private\DesignPatterns\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.pdb
+E:\Projects\2012\DesignPatterns\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe
+E:\Projects\2012\DesignPatterns\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.pdb
+E:\Projects\2012\DesignPatterns\ChainOfResponsibilityPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.exe
+E:\Projects\2012\DesignPatterns\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ChainOfResponsibilityPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.pdb

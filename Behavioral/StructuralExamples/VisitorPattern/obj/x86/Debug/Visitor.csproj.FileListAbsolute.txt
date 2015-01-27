@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+E:\Projects\2012\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+E:\Projects\2012\DesignPatterns\Visitor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\Visitor\obj\x86\Debug\Visitor.exe
+E:\Projects\2012\DesignPatterns\Visitor\obj\x86\Debug\Visitor.pdb

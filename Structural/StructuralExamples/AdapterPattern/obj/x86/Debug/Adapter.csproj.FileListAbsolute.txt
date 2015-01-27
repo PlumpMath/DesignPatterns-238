@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+E:\Projects\2012\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+E:\Projects\2012\DesignPatterns\Adapter\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\Adapter\obj\x86\Debug\Adapter.exe
+E:\Projects\2012\DesignPatterns\Adapter\obj\x86\Debug\Adapter.pdb

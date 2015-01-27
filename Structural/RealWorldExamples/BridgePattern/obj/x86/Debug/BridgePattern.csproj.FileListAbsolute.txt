@@ -1,0 +1,20 @@
+c:\users\robert\documents\visual studio 2010\Projects\DesignPatterns\BridgePattern\bin\Debug\BridgePattern.exe
+c:\users\robert\documents\visual studio 2010\Projects\DesignPatterns\BridgePattern\bin\Debug\BridgePattern.pdb
+c:\users\robert\documents\visual studio 2010\Projects\DesignPatterns\BridgePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2010\Projects\DesignPatterns\BridgePattern\obj\x86\Debug\BridgePattern.exe
+c:\users\robert\documents\visual studio 2010\Projects\DesignPatterns\BridgePattern\obj\x86\Debug\BridgePattern.pdb
+G:\_Projects\Private\DesignPatterns\BridgePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\BridgePattern\obj\x86\Debug\BridgePattern.exe
+G:\_Projects\Private\DesignPatterns\BridgePattern\obj\x86\Debug\BridgePattern.pdb
+G:\_Projects\Private\DesignPatterns\BridgePattern\bin\Debug\BridgePattern.exe
+G:\_Projects\Private\DesignPatterns\BridgePattern\bin\Debug\BridgePattern.pdb
+E:\Projects\2012\DesignPatterns\BridgePattern\bin\Debug\BridgePattern.exe
+E:\Projects\2012\DesignPatterns\BridgePattern\bin\Debug\BridgePattern.pdb
+E:\Projects\2012\DesignPatterns\BridgePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\BridgePattern\obj\x86\Debug\BridgePattern.exe
+E:\Projects\2012\DesignPatterns\BridgePattern\obj\x86\Debug\BridgePattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\BridgePattern\bin\Debug\BridgePattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\BridgePattern\bin\Debug\BridgePattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\BridgePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\BridgePattern\obj\x86\Debug\BridgePattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\BridgePattern\obj\x86\Debug\BridgePattern.pdb

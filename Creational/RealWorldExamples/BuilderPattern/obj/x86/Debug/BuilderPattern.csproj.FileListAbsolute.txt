@@ -1,0 +1,20 @@
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\BuilderPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+C:\Users\Robert\Documents\Visual Studio 2010\Projects\DesignPatterns\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb
+G:\_Projects\Private\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe
+G:\_Projects\Private\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.pdb
+G:\_Projects\Private\DesignPatterns\BuilderPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+G:\_Projects\Private\DesignPatterns\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb
+E:\Projects\2012\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe
+E:\Projects\2012\DesignPatterns\BuilderPattern\bin\Debug\BuilderPattern.pdb
+E:\Projects\2012\DesignPatterns\BuilderPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+E:\Projects\2012\DesignPatterns\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\BuilderPattern\bin\Debug\BuilderPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\BuilderPattern\bin\Debug\BuilderPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\BuilderPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb

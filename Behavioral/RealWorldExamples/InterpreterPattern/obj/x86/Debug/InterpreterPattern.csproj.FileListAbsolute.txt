@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+G:\_Projects\Private\DesignPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+G:\_Projects\Private\DesignPatterns\InterpreterPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\InterpreterPattern\obj\x86\Debug\InterpreterPattern.exe
+G:\_Projects\Private\DesignPatterns\InterpreterPattern\obj\x86\Debug\InterpreterPattern.pdb
+E:\Projects\2012\DesignPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+E:\Projects\2012\DesignPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+E:\Projects\2012\DesignPatterns\InterpreterPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\InterpreterPattern\obj\x86\Debug\InterpreterPattern.exe
+E:\Projects\2012\DesignPatterns\InterpreterPattern\obj\x86\Debug\InterpreterPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\InterpreterPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\InterpreterPattern\obj\x86\Debug\InterpreterPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\InterpreterPattern\obj\x86\Debug\InterpreterPattern.pdb

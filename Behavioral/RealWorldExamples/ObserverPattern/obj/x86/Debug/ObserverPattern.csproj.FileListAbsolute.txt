@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\ObserverPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe
+G:\_Projects\Private\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
+G:\_Projects\Private\DesignPatterns\ObserverPattern\obj\x86\Debug\ObserverPattern.exe
+G:\_Projects\Private\DesignPatterns\ObserverPattern\obj\x86\Debug\ObserverPattern.pdb
+E:\Projects\2012\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe
+E:\Projects\2012\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
+E:\Projects\2012\DesignPatterns\ObserverPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\ObserverPattern\obj\x86\Debug\ObserverPattern.exe
+E:\Projects\2012\DesignPatterns\ObserverPattern\obj\x86\Debug\ObserverPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ObserverPattern\bin\Debug\ObserverPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ObserverPattern\bin\Debug\ObserverPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ObserverPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ObserverPattern\obj\x86\Debug\ObserverPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\ObserverPattern\obj\x86\Debug\ObserverPattern.pdb

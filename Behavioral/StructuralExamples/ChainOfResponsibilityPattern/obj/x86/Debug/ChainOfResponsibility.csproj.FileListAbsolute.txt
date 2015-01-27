@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
+E:\Projects\2012\DesignPatterns\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+E:\Projects\2012\DesignPatterns\ChainOfResponsibility\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\ChainOfResponsibility\obj\x86\Debug\ChainOfResponsibility.exe
+E:\Projects\2012\DesignPatterns\ChainOfResponsibility\obj\x86\Debug\ChainOfResponsibility.pdb

@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+G:\_Projects\Private\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+G:\_Projects\Private\DesignPatterns\FlyweightPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\FlyweightPattern\obj\x86\Debug\FlyweightPattern.exe
+G:\_Projects\Private\DesignPatterns\FlyweightPattern\obj\x86\Debug\FlyweightPattern.pdb
+E:\Projects\2012\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+E:\Projects\2012\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+E:\Projects\2012\DesignPatterns\FlyweightPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\FlyweightPattern\obj\x86\Debug\FlyweightPattern.exe
+E:\Projects\2012\DesignPatterns\FlyweightPattern\obj\x86\Debug\FlyweightPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FlyweightPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FlyweightPattern\obj\x86\Debug\FlyweightPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FlyweightPattern\obj\x86\Debug\FlyweightPattern.pdb

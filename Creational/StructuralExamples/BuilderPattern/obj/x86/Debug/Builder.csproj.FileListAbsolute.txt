@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\Builder\bin\Debug\Builder.exe
+E:\Projects\2012\DesignPatterns\Builder\bin\Debug\Builder.pdb
+E:\Projects\2012\DesignPatterns\Builder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\Builder\obj\x86\Debug\Builder.exe
+E:\Projects\2012\DesignPatterns\Builder\obj\x86\Debug\Builder.pdb

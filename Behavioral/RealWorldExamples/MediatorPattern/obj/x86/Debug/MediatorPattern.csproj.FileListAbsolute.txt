@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\MediatorPattern\bin\Debug\MediatorPattern.exe
+G:\_Projects\Private\DesignPatterns\MediatorPattern\bin\Debug\MediatorPattern.pdb
+G:\_Projects\Private\DesignPatterns\MediatorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\MediatorPattern\obj\x86\Debug\MediatorPattern.exe
+G:\_Projects\Private\DesignPatterns\MediatorPattern\obj\x86\Debug\MediatorPattern.pdb
+E:\Projects\2012\DesignPatterns\MediatorPattern\bin\Debug\MediatorPattern.exe
+E:\Projects\2012\DesignPatterns\MediatorPattern\bin\Debug\MediatorPattern.pdb
+E:\Projects\2012\DesignPatterns\MediatorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\MediatorPattern\obj\x86\Debug\MediatorPattern.exe
+E:\Projects\2012\DesignPatterns\MediatorPattern\obj\x86\Debug\MediatorPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\MediatorPattern\bin\Debug\MediatorPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\MediatorPattern\bin\Debug\MediatorPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\MediatorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\MediatorPattern\obj\x86\Debug\MediatorPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\MediatorPattern\obj\x86\Debug\MediatorPattern.pdb

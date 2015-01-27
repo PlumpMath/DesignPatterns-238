@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\State\bin\Debug\State.exe
+E:\Projects\2012\DesignPatterns\State\bin\Debug\State.pdb
+E:\Projects\2012\DesignPatterns\State\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\State\obj\x86\Debug\State.exe
+E:\Projects\2012\DesignPatterns\State\obj\x86\Debug\State.pdb

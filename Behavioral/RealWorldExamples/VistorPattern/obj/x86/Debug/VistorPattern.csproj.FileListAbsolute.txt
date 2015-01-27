@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\VistorPattern\bin\Debug\VistorPattern.exe
+G:\_Projects\Private\DesignPatterns\VistorPattern\bin\Debug\VistorPattern.pdb
+G:\_Projects\Private\DesignPatterns\VistorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\VistorPattern\obj\x86\Debug\VistorPattern.exe
+G:\_Projects\Private\DesignPatterns\VistorPattern\obj\x86\Debug\VistorPattern.pdb
+E:\Projects\2012\DesignPatterns\VistorPattern\bin\Debug\VistorPattern.exe
+E:\Projects\2012\DesignPatterns\VistorPattern\bin\Debug\VistorPattern.pdb
+E:\Projects\2012\DesignPatterns\VistorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\VistorPattern\obj\x86\Debug\VistorPattern.exe
+E:\Projects\2012\DesignPatterns\VistorPattern\obj\x86\Debug\VistorPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\VistorPattern\bin\Debug\VistorPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\VistorPattern\bin\Debug\VistorPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\VistorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\VistorPattern\obj\x86\Debug\VistorPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\VistorPattern\obj\x86\Debug\VistorPattern.pdb

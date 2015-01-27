@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\StatePattern\bin\Debug\StatePattern.exe
+G:\_Projects\Private\DesignPatterns\StatePattern\bin\Debug\StatePattern.pdb
+G:\_Projects\Private\DesignPatterns\StatePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\StatePattern\obj\x86\Debug\StatePattern.exe
+G:\_Projects\Private\DesignPatterns\StatePattern\obj\x86\Debug\StatePattern.pdb
+E:\Projects\2012\DesignPatterns\StatePattern\bin\Debug\StatePattern.exe
+E:\Projects\2012\DesignPatterns\StatePattern\bin\Debug\StatePattern.pdb
+E:\Projects\2012\DesignPatterns\StatePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\StatePattern\obj\x86\Debug\StatePattern.exe
+E:\Projects\2012\DesignPatterns\StatePattern\obj\x86\Debug\StatePattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\StatePattern\bin\Debug\StatePattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\StatePattern\bin\Debug\StatePattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\StatePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\StatePattern\obj\x86\Debug\StatePattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\StatePattern\obj\x86\Debug\StatePattern.pdb

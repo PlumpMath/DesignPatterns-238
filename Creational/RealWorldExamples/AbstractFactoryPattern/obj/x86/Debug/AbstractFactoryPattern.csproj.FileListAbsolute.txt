@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+G:\_Projects\Private\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+G:\_Projects\Private\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.exe
+G:\_Projects\Private\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.pdb
+E:\Projects\2012\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+E:\Projects\2012\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+E:\Projects\2012\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.exe
+E:\Projects\2012\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AbstractFactoryPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.pdb

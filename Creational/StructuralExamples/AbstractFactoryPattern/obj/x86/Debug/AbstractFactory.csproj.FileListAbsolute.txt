@@ -1,0 +1,10 @@
+G:\_Projects\Private\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+G:\_Projects\Private\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+G:\_Projects\Private\DesignPatterns\AbstractFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+G:\_Projects\Private\DesignPatterns\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
+E:\Projects\2012\DesignPatterns\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+E:\Projects\2012\DesignPatterns\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
+E:\Projects\2012\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+E:\Projects\2012\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\Projects\2012\DesignPatterns\AbstractFactory\obj\x86\Debug\ResolveAssemblyReference.cache

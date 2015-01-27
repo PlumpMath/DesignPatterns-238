@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+G:\_Projects\Private\DesignPatterns\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+G:\_Projects\Private\DesignPatterns\FactoryMethodPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.exe
+G:\_Projects\Private\DesignPatterns\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.pdb
+E:\Projects\2012\DesignPatterns\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+E:\Projects\2012\DesignPatterns\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+E:\Projects\2012\DesignPatterns\FactoryMethodPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.exe
+E:\Projects\2012\DesignPatterns\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FactoryMethodPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.pdb

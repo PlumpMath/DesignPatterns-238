@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\StructuralExamples\TemplatePattern\bin\Debug\Template.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\TemplatePattern\bin\Debug\Template.pdb
+E:\Projects\2012\DesignPatterns\StructuralExamples\TemplatePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\StructuralExamples\TemplatePattern\obj\x86\Debug\Template.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\TemplatePattern\obj\x86\Debug\Template.pdb

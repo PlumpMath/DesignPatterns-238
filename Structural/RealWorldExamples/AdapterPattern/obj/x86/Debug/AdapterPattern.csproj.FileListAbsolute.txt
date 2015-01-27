@@ -1,0 +1,20 @@
+c:\users\robert\documents\visual studio 2010\Projects\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe
+c:\users\robert\documents\visual studio 2010\Projects\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+c:\users\robert\documents\visual studio 2010\Projects\DesignPatterns\AdapterPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2010\Projects\DesignPatterns\AdapterPattern\obj\x86\Debug\AdapterPattern.exe
+c:\users\robert\documents\visual studio 2010\Projects\DesignPatterns\AdapterPattern\obj\x86\Debug\AdapterPattern.pdb
+G:\_Projects\Private\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe
+G:\_Projects\Private\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+G:\_Projects\Private\DesignPatterns\AdapterPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\AdapterPattern\obj\x86\Debug\AdapterPattern.exe
+G:\_Projects\Private\DesignPatterns\AdapterPattern\obj\x86\Debug\AdapterPattern.pdb
+E:\Projects\2012\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe
+E:\Projects\2012\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+E:\Projects\2012\DesignPatterns\AdapterPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\AdapterPattern\obj\x86\Debug\AdapterPattern.exe
+E:\Projects\2012\DesignPatterns\AdapterPattern\obj\x86\Debug\AdapterPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AdapterPattern\bin\Debug\AdapterPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AdapterPattern\bin\Debug\AdapterPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AdapterPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AdapterPattern\obj\x86\Debug\AdapterPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AdapterPattern\obj\x86\Debug\AdapterPattern.pdb

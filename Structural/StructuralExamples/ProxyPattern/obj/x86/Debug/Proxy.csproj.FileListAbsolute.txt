@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+E:\Projects\2012\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+E:\Projects\2012\DesignPatterns\Proxy\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\Proxy\obj\x86\Debug\Proxy.exe
+E:\Projects\2012\DesignPatterns\Proxy\obj\x86\Debug\Proxy.pdb

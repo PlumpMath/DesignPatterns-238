@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\Command\bin\Debug\Command.exe
+E:\Projects\2012\DesignPatterns\Command\bin\Debug\Command.pdb
+E:\Projects\2012\DesignPatterns\Command\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\Command\obj\x86\Debug\Command.exe
+E:\Projects\2012\DesignPatterns\Command\obj\x86\Debug\Command.pdb

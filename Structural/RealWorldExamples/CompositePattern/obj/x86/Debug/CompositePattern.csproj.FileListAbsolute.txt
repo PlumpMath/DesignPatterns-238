@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\CompositePattern\bin\Debug\CompositePattern.exe
+G:\_Projects\Private\DesignPatterns\CompositePattern\bin\Debug\CompositePattern.pdb
+G:\_Projects\Private\DesignPatterns\CompositePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\CompositePattern\obj\x86\Debug\CompositePattern.exe
+G:\_Projects\Private\DesignPatterns\CompositePattern\obj\x86\Debug\CompositePattern.pdb
+E:\Projects\2012\DesignPatterns\CompositePattern\bin\Debug\CompositePattern.exe
+E:\Projects\2012\DesignPatterns\CompositePattern\bin\Debug\CompositePattern.pdb
+E:\Projects\2012\DesignPatterns\CompositePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\CompositePattern\obj\x86\Debug\CompositePattern.exe
+E:\Projects\2012\DesignPatterns\CompositePattern\obj\x86\Debug\CompositePattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\CompositePattern\bin\Debug\CompositePattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\CompositePattern\bin\Debug\CompositePattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\CompositePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\CompositePattern\obj\x86\Debug\CompositePattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\CompositePattern\obj\x86\Debug\CompositePattern.pdb

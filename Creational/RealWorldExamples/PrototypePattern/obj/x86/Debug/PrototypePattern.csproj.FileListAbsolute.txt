@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.exe
+G:\_Projects\Private\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.pdb
+G:\_Projects\Private\DesignPatterns\PrototypePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
+G:\_Projects\Private\DesignPatterns\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb
+E:\Projects\2012\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.exe
+E:\Projects\2012\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.pdb
+E:\Projects\2012\DesignPatterns\PrototypePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
+E:\Projects\2012\DesignPatterns\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\PrototypePattern\bin\Debug\PrototypePattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\PrototypePattern\bin\Debug\PrototypePattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\PrototypePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb

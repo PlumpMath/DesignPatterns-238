@@ -1,0 +1,10 @@
+E:\Projects\2012\DesignPatterns\StructuralExamples\SingletonPattern\bin\Debug\Singleton.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\SingletonPattern\bin\Debug\Singleton.pdb
+E:\Projects\2012\DesignPatterns\StructuralExamples\SingletonPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\StructuralExamples\SingletonPattern\obj\x86\Debug\Singleton.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\SingletonPattern\obj\x86\Debug\Singleton.pdb
+E:\Projects\2012\DesignPatterns\Creational_Structural\SingletonPattern\obj\x86\Debug\Singleton.exe
+E:\Projects\2012\DesignPatterns\Creational_Structural\SingletonPattern\obj\x86\Debug\Singleton.pdb
+E:\Projects\2012\DesignPatterns\Creational_Structural\SingletonPattern\bin\Debug\Singleton.exe
+E:\Projects\2012\DesignPatterns\Creational_Structural\SingletonPattern\bin\Debug\Singleton.pdb
+E:\Projects\2012\DesignPatterns\Creational_Structural\SingletonPattern\obj\x86\Debug\ResolveAssemblyReference.cache

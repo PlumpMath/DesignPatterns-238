@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe
+G:\_Projects\Private\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
+G:\_Projects\Private\DesignPatterns\StrategyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+G:\_Projects\Private\DesignPatterns\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
+E:\Projects\2012\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe
+E:\Projects\2012\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
+E:\Projects\2012\DesignPatterns\StrategyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+E:\Projects\2012\DesignPatterns\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\StrategyPattern\bin\Debug\StrategyPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\StrategyPattern\bin\Debug\StrategyPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\StrategyPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb

@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+G:\_Projects\Private\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+G:\_Projects\Private\DesignPatterns\DecoratorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\DecoratorPattern\obj\x86\Debug\DecoratorPattern.exe
+G:\_Projects\Private\DesignPatterns\DecoratorPattern\obj\x86\Debug\DecoratorPattern.pdb
+E:\Projects\2012\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+E:\Projects\2012\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+E:\Projects\2012\DesignPatterns\DecoratorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\DecoratorPattern\obj\x86\Debug\DecoratorPattern.exe
+E:\Projects\2012\DesignPatterns\DecoratorPattern\obj\x86\Debug\DecoratorPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\DecoratorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\DecoratorPattern\obj\x86\Debug\DecoratorPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\DecoratorPattern\obj\x86\Debug\DecoratorPattern.pdb

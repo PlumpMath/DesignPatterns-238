@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\FacadePattern\bin\Debug\FacadePattern.exe
+G:\_Projects\Private\DesignPatterns\FacadePattern\bin\Debug\FacadePattern.pdb
+G:\_Projects\Private\DesignPatterns\FacadePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\FacadePattern\obj\x86\Debug\FacadePattern.exe
+G:\_Projects\Private\DesignPatterns\FacadePattern\obj\x86\Debug\FacadePattern.pdb
+E:\Projects\2012\DesignPatterns\FacadePattern\bin\Debug\FacadePattern.exe
+E:\Projects\2012\DesignPatterns\FacadePattern\bin\Debug\FacadePattern.pdb
+E:\Projects\2012\DesignPatterns\FacadePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\FacadePattern\obj\x86\Debug\FacadePattern.exe
+E:\Projects\2012\DesignPatterns\FacadePattern\obj\x86\Debug\FacadePattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FacadePattern\bin\Debug\FacadePattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FacadePattern\bin\Debug\FacadePattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FacadePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FacadePattern\obj\x86\Debug\FacadePattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\FacadePattern\obj\x86\Debug\FacadePattern.pdb

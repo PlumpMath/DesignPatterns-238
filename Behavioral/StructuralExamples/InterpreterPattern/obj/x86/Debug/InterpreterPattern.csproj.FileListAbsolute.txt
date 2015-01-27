@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\StructuralExamples\InterpreterPattern\bin\Debug\Interpreter.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\InterpreterPattern\bin\Debug\Interpreter.pdb
+E:\Projects\2012\DesignPatterns\StructuralExamples\InterpreterPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\StructuralExamples\InterpreterPattern\obj\x86\Debug\Interpreter.exe
+E:\Projects\2012\DesignPatterns\StructuralExamples\InterpreterPattern\obj\x86\Debug\Interpreter.pdb

@@ -1,0 +1,15 @@
+G:\_Projects\Private\DesignPatterns\IteratorPattern\bin\Debug\IteratorPattern.exe
+G:\_Projects\Private\DesignPatterns\IteratorPattern\bin\Debug\IteratorPattern.pdb
+G:\_Projects\Private\DesignPatterns\IteratorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\IteratorPattern\obj\x86\Debug\IteratorPattern.exe
+G:\_Projects\Private\DesignPatterns\IteratorPattern\obj\x86\Debug\IteratorPattern.pdb
+E:\Projects\2012\DesignPatterns\IteratorPattern\bin\Debug\IteratorPattern.exe
+E:\Projects\2012\DesignPatterns\IteratorPattern\bin\Debug\IteratorPattern.pdb
+E:\Projects\2012\DesignPatterns\IteratorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\IteratorPattern\obj\x86\Debug\IteratorPattern.exe
+E:\Projects\2012\DesignPatterns\IteratorPattern\obj\x86\Debug\IteratorPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\IteratorPattern\bin\Debug\IteratorPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\IteratorPattern\bin\Debug\IteratorPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\IteratorPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\IteratorPattern\obj\x86\Debug\IteratorPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\IteratorPattern\obj\x86\Debug\IteratorPattern.pdb

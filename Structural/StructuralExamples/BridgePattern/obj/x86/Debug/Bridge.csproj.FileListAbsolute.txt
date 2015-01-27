@@ -1,0 +1,5 @@
+E:\Projects\2012\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+E:\Projects\2012\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+E:\Projects\2012\DesignPatterns\Bridge\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\Bridge\obj\x86\Debug\Bridge.exe
+E:\Projects\2012\DesignPatterns\Bridge\obj\x86\Debug\Bridge.pdb
